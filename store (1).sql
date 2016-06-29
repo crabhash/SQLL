@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 29, 2016 at 10:56 AM
+-- Generation Time: Jun 29, 2016 at 11:08 AM
 -- Server version: 10.1.13-MariaDB
 -- PHP Version: 5.6.21
 
@@ -123,21 +123,21 @@ INSERT INTO `tbl_products` (`product_id`, `product_name`, `category_id`, `produc
 (7, 'Iphone 5s', 5, 60000, 40),
 (8, 'Polo-Tshirt', 2, 2000, 80),
 (9, 'Levis Pant', 2, 3000, 40),
-(10, 'Armani Tshirt', 3, 2000, 50),
+(10, 'Armani Tshirt', 2, 2000, 50),
 (11, 'Armani Pant', 3, 3000, 40),
-(12, 'Ladies Levis Tshirt', 4, 2000, 40),
-(13, 'Ladies Levis Pant', 4, 3200, 30),
+(12, 'Ladies Levis Tshirt', 3, 2000, 40),
+(13, 'Ladies Levis Pant', 3, 3200, 30),
 (14, 'Macho-Man Underwear', 2, 200, 100),
 (15, 'Amul Innerwear', 3, 200, 100),
-(16, 'Rupa Innerwear', 4, 200, 100),
+(16, 'Rupa Innerwear', 2, 200, 100),
 (17, 'Odni-Sari', 3, 10000, 70),
 (18, 'Raymond-Suit', 2, 12000, 90),
 (19, 'Dr.Martin Shoe', 2, 5000, 100),
 (20, 'Sikhar Shoe', 3, 2500, 50),
-(21, 'Woodland Shoe', 4, 4500, 400),
+(21, 'Woodland Shoe', 2, 4500, 400),
 (22, 'Football Jersy', 2, 1200, 150),
 (23, 'Basketball Jersy', 3, 1100, 150),
-(24, 'Cricket Jersy', 4, 1000, 100);
+(24, 'Cricket Jersy', 2, 1000, 100);
 
 -- --------------------------------------------------------
 
